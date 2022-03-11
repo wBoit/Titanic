@@ -1,9 +1,9 @@
 # Titanic
-### This is a data analysis of the Titanic dataset 
+### In this repo I analyze a dataset related to the passengers of the RMS Titanic ship which unfortunately sank in its first travel on may 1912.
+
 
 ![alt text](https://www.euclidlibrary.org/sites/default/files/tickles/titanic-dock.jpg)
  
-### In this repo I analyze a dataset related to the passengers of the RMS Titanic ship which unfortunately sank in its first travel on may 1912.
 
  #### It's was attatched 3 files in the repo : 
 The *first file* is a dataset which contain some meaningful information, like: the class of the passenger in the ship, gender, age, if they survided or not, etc..
