@@ -7,7 +7,7 @@
 
  #### It's was attatched 3 files in the repo : 
 The *first file* is a dataset which contain some meaningful information, like: the class of the passenger in the ship, gender, age, if they survided or not, etc..
-The  *second  file * contain all the Python codes I used to analyze the dataset.
+The  *second  file* contain all the Python codes I used to analyze the dataset.
 The *third file* is a report about the discoveries I found about three hypothesis created: If there is any relation between the deaths and passenger's class in the ship, gender and  age.
 
 
