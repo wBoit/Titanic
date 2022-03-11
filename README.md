@@ -1,5 +1,5 @@
 # Titanic
-## This is a data analysis of the Titanic dataset 
+### This is a data analysis of the Titanic dataset 
 
 ![alt text](https://www.euclidlibrary.org/sites/default/files/tickles/titanic-dock.jpg)
  
